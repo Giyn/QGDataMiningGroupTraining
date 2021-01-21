@@ -1,2 +1,4 @@
-# QGDataMiningGroupTraining
-Here recording the training process in QGDataMiningGroup.
+QGDataMiningGroupTraining
+=======
+
+:female_detective: ​Here recording the training process in QGDataMiningGroup.
